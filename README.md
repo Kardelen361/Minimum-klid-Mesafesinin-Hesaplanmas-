@@ -1,2 +1,2 @@
-# Minimum-klid-Mesafesinin-Hesaplanmas-
+# Minimum-Oklid-Mesafesinin-Hesaplanmas-
 IBM ile Kodluyoruz : CyberStart
